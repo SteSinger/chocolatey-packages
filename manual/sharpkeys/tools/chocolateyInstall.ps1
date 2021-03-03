@@ -1,5 +1,5 @@
 ﻿$packageName = 'sharpkeys'
-$url         = 'https://github.com/randyrants/sharpkeys/releases/download/v3.5/sharpkeys35.msi'
+$url         = 'https://github.com/randyrants/sharpkeys/releases/download/v3.9.2/sharpkeys392.msi'
 
 $packageArgs = @{
     packageName    = 'sharpkeys'
